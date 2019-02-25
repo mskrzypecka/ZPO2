@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO2", "ZPO2\ZPO2.csproj", "{CAB3F32C-22C6-48CC-8760-CD0D29E879E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB3F32C-22C6-48CC-8760-CD0D29E879E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB3F32C-22C6-48CC-8760-CD0D29E879E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB3F32C-22C6-48CC-8760-CD0D29E879E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB3F32C-22C6-48CC-8760-CD0D29E879E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EACE1F82-27D6-4A83-97F4-9EA0AD2861F1}
+	EndGlobalSection
+EndGlobal
