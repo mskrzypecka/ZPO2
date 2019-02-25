@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO2.1", "ZPO2.1\ZPO2.1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO2.2", "ZPO2.2\ZPO2.2.csproj", "{4FF81EBE-C73C-496A-842C-E4C828A30D07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO2.3", "ZPO2.3\ZPO2.3.csproj", "{ABC289E2-1C40-4A31-99B3-9887C4FBECFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4FF81EBE-C73C-496A-842C-E4C828A30D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FF81EBE-C73C-496A-842C-E4C828A30D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FF81EBE-C73C-496A-842C-E4C828A30D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC289E2-1C40-4A31-99B3-9887C4FBECFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC289E2-1C40-4A31-99B3-9887C4FBECFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC289E2-1C40-4A31-99B3-9887C4FBECFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC289E2-1C40-4A31-99B3-9887C4FBECFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
