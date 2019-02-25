@@ -9,9 +9,7 @@ namespace ZPO2.PomocnicyZamowienia
 {
     public class KalkulatorZamowien
     {
-        private Zamowienie zamowienie;
-
-        internal double Sumuj(Zamowienie zamowienie)
+        public double Sumuj(Zamowienie zamowienie)
         {
             IKosztyWysylki kurier = null;
 

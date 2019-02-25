@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Kanaly\KanalRadiowy.cs" />
+    <Compile Include="Kanaly\KanalTelewizyjny.cs" />
+    <Compile Include="Wiadomosci\ObserwowanaWiadomosc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Wiadomosci\Wiadomosc.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
