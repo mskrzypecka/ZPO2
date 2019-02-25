@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO2", "ZPO2\ZPO2.csproj", "{CAB3F32C-22C6-48CC-8760-CD0D29E879E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO2.1", "ZPO2.1\ZPO2.1.csproj", "{CAB3F32C-22C6-48CC-8760-CD0D29E879E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
