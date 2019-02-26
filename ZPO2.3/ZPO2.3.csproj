@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Fabryka.cs" />
+    <Compile Include="Samochody\ISamochod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Samochody\Fabia.cs" />
+    <Compile Include="Samochody\Punto.cs" />
+    <Compile Include="Samochody\Yaris.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
